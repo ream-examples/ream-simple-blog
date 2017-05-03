@@ -1,6 +1,6 @@
 # REAM Simple Blog
 
-A basic REAM example.
+A basic [REAM](https://github.com/ream/ream) example.
 
 ## About
 
