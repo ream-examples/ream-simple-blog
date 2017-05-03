@@ -8,6 +8,7 @@ This examples uses [jsonplaceholder.typicode.com](http://jsonplaceholder.typicod
 
 - Pre-fetching data with Vuex
 - Code-split route components
+- Custom CSS preprocessor (Stylus)
 
 To run it:
 
