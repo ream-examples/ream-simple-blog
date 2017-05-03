@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "ream-simple-blog",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "ream dev",
+    "build": "ream build",
+    "start": "ream start",
+    "deploy": "now"
+  },
+  "dependencies": {
+    "axios": "^0.16.1",
+    "nprogress": "^0.2.0",
+    "ream": "beta"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1"
+  },
+  "now": {
+    "alias": "ream-simple-blog.now.sh"
+  }
+}
