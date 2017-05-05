@@ -5,7 +5,7 @@ Vue.use(Router)
 
 function useProgressBar(router) {
   // Only add progress on client-side
-  if (__BROWSER__) {
+  if (process.browser) {
     const nprogress = require('nprogress')
     require('nprogress/nprogress.css')
 

@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.16.1",
     "nprogress": "^0.2.0",
-    "ream": "beta"
+    "ream": "^1.0.0-rc.1"
   },
   "devDependencies": {
     "stylus": "^0.54.5",
